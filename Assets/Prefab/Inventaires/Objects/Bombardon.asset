@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b492ed34371ff654b811bcb4895825c5, type: 3}
+  m_Name: Bombardon
+  m_EditorClassIdentifier: 
+  objectName: Bombardon
+  id: 2134
+  objectDraggable: {fileID: 6095750776893495118, guid: 67b8c3f6d84e4ae4880f66bae9846818, type: 3}
+  imageRef: {fileID: 21300000, guid: 2ad4c8b056125894dbbd64d1f9c057f5, type: 3}
+  infoText: "Les bombardons sont des petits caissons m\xE9talliques en forme de croix,
+    flottants et attach\xE9s les un aux autres avec un espace de 15 m\xE8tres. Ils
+    avaient pour but d'aplanir les vagues, et ils \xE9taient espac\xE9s de mani\xE8re
+    \xE0 ce qu\u2019elles ne se reforment pas derri\xE8re."

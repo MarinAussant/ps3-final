@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b492ed34371ff654b811bcb4895825c5, type: 3}
+  m_Name: CaissonPhoenix
+  m_EditorClassIdentifier: 
+  objectName: Caisson Phoenix
+  id: 1564
+  objectDraggable: {fileID: 5142509891483069245, guid: ab42a3d35dac60248b00bf009dea06df, type: 3}
+  imageRef: {fileID: 21300000, guid: c766ba2fd3a0cea4fad500e752ebb666, type: 3}
+  infoText: "Le caisson phoenix est un immense bloc en b\xE9ton arm\xE9. Les caissons
+    sont creux et \xE9tanches afin qu\u2019ils flottent et qu\u2019ils puissent \xEAtre
+    transport\xE9s. A l\u2019int\xE9rieur, des vannes sont dispos\xE9es pour remplir
+    le bloc jusqu\u2019au \xBE et le faire couler.\r\n\r\n"

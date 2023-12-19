@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b492ed34371ff654b811bcb4895825c5, type: 3}
+  m_Name: Explosif
+  m_EditorClassIdentifier: 
+  objectName: Explosif
+  id: 6475
+  objectDraggable: {fileID: 7757987108092806208, guid: e262ae4dad10de0419c2cbff30998b62, type: 3}
+  imageRef: {fileID: 21300000, guid: f9c805f6c7535da4082121e69b8c4659, type: 3}
+  infoText: "Pendant la Seconde Guerre mondiale, divers types d'explosifs ont \xE9t\xE9
+    utilis\xE9s par les forces militaires des diff\xE9rentes nations impliqu\xE9es
+    dans le conflit. Pour ce qui de la destruction d\u2019infrastructure dans un
+    but strat\xE9gique, la dynamite est l\u2019explosif le plus efficace."

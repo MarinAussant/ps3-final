@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b492ed34371ff654b811bcb4895825c5, type: 3}
+  m_Name: Blockship
+  m_EditorClassIdentifier: 
+  objectName: Blockship
+  id: 1578
+  objectDraggable: {fileID: 7139389321771592697, guid: 893e79bf72cd88d4893c01bf3a082e4d, type: 3}
+  imageRef: {fileID: 21300000, guid: 690c7e3456372e149b4820e93dd666f4, type: 3}
+  infoText: "Un blockship est un navire d\xE9lib\xE9r\xE9ment lest\xE9 par du b\xE9ton,
+    puis coul\xE9 pour prot\xE9ger un port ou un cours d'eau. En fran\xE7ais, il
+    peut avoir le sens de \xAB navire de blocage \xBB. A l\u2019origine, il s'agit
+    d\u2019un navire marchand."
